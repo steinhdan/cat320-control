@@ -1,0 +1,12 @@
+{
+  "name": "cat320-control",
+  "description": "Bruder CAT 320 control software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "steinhdan/cat320-control",
+  "dependencies": {
+    "joystick": "^0.1.2",
+    "motor-hat": "^2.0.2",
+    "serialport": "^6.2.0"
+  }
+}
